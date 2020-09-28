@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'ubuntu';
+    src: url('../fonts/ferritecore-regular-webfont.woff2') format('woff2'),
+         url('../fonts/ferritecore-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: news-gothic-std, "Arial Narrow", sans-serif;
+    background-image: url(../img/phoebepunisher.jpg);
+    --color-title: #c62323;
+}
+
+.intro {
+    text-transform: uppercase;
+    font-style: normal;
+}
+
+.content__subtitle {
+    font-style: normal;
+}
+
+.content__title {
+	font-family: 'ubuntu';
+}
+
+.content__credits {
+    font-style: normal;
+    margin-top: 7rem;
+    max-width: 40rem;
+}

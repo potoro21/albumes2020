@@ -1,0 +1,8 @@
+body {
+    font-family: niveau-grotesk, sans-serif;
+    background-image: url(../img/haim.jpeg);
+}
+
+.content__title {
+    font-size: 10vw;
+}
